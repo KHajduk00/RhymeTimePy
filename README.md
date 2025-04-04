@@ -1,7 +1,7 @@
-# Rhyme Text Editor
+# RhymeTimePy
 
 ## Overview
-Rhyme Text Editor is a simple text editor with built-in rhyme highlighting. It helps writers, poets, and lyricists by automatically detecting and visually grouping rhyming words in the text. The application features as of now a file explorer, syntax highlighting, and dark mode.
+RhymeTimePy is a simple text editor with built-in rhyme highlighting. It helps writers, poets, and lyricists by automatically detecting and visually grouping rhyming words in the text. The application features as of now a file explorer, syntax highlighting, and dark mode.
 
 ## Features
 - **Automatic Rhyme Highlighting**: Detects rhyming words and assigns them distinct background colors.
@@ -18,8 +18,8 @@ Rhyme Text Editor is a simple text editor with built-in rhyme highlighting. It h
 ### Installation Steps
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repository/rhyme-text-editor.git
-   cd rhyme-text-editor
+   git clone git@github.com:KHajduk00/RhymeTimePy.git
+   cd RhymeTimePy
    ```
 2. Install dependencies:
    ```sh
@@ -27,7 +27,7 @@ Rhyme Text Editor is a simple text editor with built-in rhyme highlighting. It h
    ```
 3. Run the application:
    ```sh
-   python rhyme_editor.py
+   python main.py
    ```
 
 ## Usage
